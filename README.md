@@ -5,4 +5,7 @@ Based on the expections of a front end developer, we are going to need to be abl
 
 <h3>Comp given</h3>
 
+![](https://github.com/B-Coyle/DogParty2019/blob/master/comp%20image.png)
+![](https://github.com/B-Coyle/DogParty2019/blob/master/final%20project.png)
+
 <h3>Finished project:<h3>
